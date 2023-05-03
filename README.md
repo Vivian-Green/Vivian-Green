@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Green&hide=html)](https://github.com/Vivian-Green/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Green&hide=html)](https://github.com/Vivian-Green/github-readme-stats&show_icons=true)
 
 
 <!--
