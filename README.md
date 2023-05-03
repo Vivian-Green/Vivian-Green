@@ -1,7 +1,7 @@
 ### Finally getting around to this whole "github" thing for real.. this is so much easier.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Green&hide=html)](https://github.com/Vivian-Green/github-readme-stats&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Green&hide=html)](https://github.com/Vivian-Green/github-readme-stats)
 
 ripped from this helpful person: https://github.com/anuraghazra/github-readme-stats
 
