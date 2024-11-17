@@ -1,9 +1,3 @@
-### Finally getting around to this whole "github" thing for real.. this is so much easier.
-
-wow an itch.io page:
-https://viviansusername.itch.io/menger-sponge-demo
-![image](https://user-images.githubusercontent.com/22178016/236383463-fee0c343-49f2-4ac1-b538-86b4e078d851.png)
-
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vivian-Green&hide=html)](https://github.com/Vivian-Green/github-readme-stats)
